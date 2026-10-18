@@ -1,8 +1,8 @@
 # COMP 3123 – Assignment 1: Secure Employee Management REST API
 
-**Student:** _Your Name_ (_Student #_)  
-**GitHub:** `https://github.com/<your-username>/<Student#>_COMP3123_Assignment1`  
-**Deployed API (Vercel):** `https://<your-project>.vercel.app`
+**Student:** Ishan Sood (101539944)  
+**GitHub:** `https://github.com/Ishannsood/101539944_COMP3123_Assignment1 
+**Deployed API (Vercel):** [`https://<your-project>.vercel.app`](https://101539944-comp-3123-assignment1.vercel.app)
 
 ## 1. Project
 
