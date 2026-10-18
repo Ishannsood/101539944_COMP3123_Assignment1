@@ -1,0 +1,13 @@
+{"fields":["body","password"],"level":"warn","message":"Validation failed","method":"POST","path":"/api/v1/user/login","timestamp":"2026-10-18T02:39:03.584Z"}
+{"level":"warn","message":"Request error Validation failed","method":"POST","path":"/api/v1/user/login","status":400,"timestamp":"2026-10-18T02:39:03.585Z"}
+{"durationMs":16,"ip":"127.0.0.1","level":"warn","message":"HTTP request","method":"POST","path":"/api/v1/user/login","status":400,"timestamp":"2026-10-18T02:39:03.587Z"}
+{"fields":["body","password"],"level":"warn","message":"Validation failed","method":"POST","path":"/api/v1/user/login","timestamp":"2026-10-18T02:39:03.592Z"}
+{"level":"warn","message":"Request error Validation failed","method":"POST","path":"/api/v1/user/login","status":400,"timestamp":"2026-10-18T02:39:03.592Z"}
+{"durationMs":3,"ip":"127.0.0.1","level":"warn","message":"HTTP request","method":"POST","path":"/api/v1/user/login","status":400,"timestamp":"2026-10-18T02:39:03.593Z"}
+{"fields":["body","password"],"level":"warn","message":"Validation failed","method":"POST","path":"/api/v1/user/login","timestamp":"2026-10-18T02:39:03.595Z"}
+{"level":"warn","message":"Request error Validation failed","method":"POST","path":"/api/v1/user/login","status":400,"timestamp":"2026-10-18T02:39:03.596Z"}
+{"durationMs":2,"ip":"127.0.0.1","level":"warn","message":"HTTP request","method":"POST","path":"/api/v1/user/login","status":400,"timestamp":"2026-10-18T02:39:03.596Z"}
+{"ip":"127.0.0.1","level":"warn","limiter":"login","message":"Rate limit exceeded","method":"POST","path":"/api/v1/user/login","timestamp":"2026-10-18T02:39:03.598Z"}
+{"durationMs":1,"ip":"127.0.0.1","level":"warn","message":"HTTP request","method":"POST","path":"/api/v1/user/login","status":429,"timestamp":"2026-10-18T02:39:03.599Z"}
+{"ip":"127.0.0.1","level":"warn","limiter":"login","message":"Rate limit exceeded","method":"POST","path":"/api/v1/user/login","timestamp":"2026-10-18T02:39:03.600Z"}
+{"durationMs":1,"ip":"127.0.0.1","level":"warn","message":"HTTP request","method":"POST","path":"/api/v1/user/login","status":429,"timestamp":"2026-10-18T02:39:03.601Z"}
